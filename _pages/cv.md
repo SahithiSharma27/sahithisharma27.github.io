@@ -9,6 +9,8 @@ redirect_from:
 
 ---
 
+Please find my detailed CV [here](https://aamzhas.github.io/files/Sahithi - CV.pdf)
+
 ## Education
 
 MBBS - Bachelor of Medicine and Bacehelor of Surgery, Medicine
