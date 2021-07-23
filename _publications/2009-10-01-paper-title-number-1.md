@@ -1,15 +1,15 @@
 ---
-title: "Paper Title Number 1"
+title: "Adverse Drug Reactions Attributed to Fondaparinux and Unfractionated Heparin in Cardiovascular Care Unit: An Observational Prospective Pilot Study in a Tertiary Care Hospital"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+excerpt: 'This study was carried out to collect and analyze the adverse drug reactions (ADRs) reported with use of anticoagulants, heparin and fondaparinux. These drugs are vital in the treatment of unstable coronary artery diseases and emergencies.'
+date: 2018-04-01
+venue: 'Journal of Pharmacy & Bioallied Sciences'
+paperurl: 'http://sahithisharma27.github.io/files/Adverse_DrugReaction.pdf'
+citation: Sharma S, Swamy S, Bhambhani A, Nadig P. Adverse Drug Reactions Attributed to Fondaparinux and Unfractionated Heparin in Cardiovascular Care Unit: An Observational Prospective Pilot Study in a Tertiary Care Hospital." <i>J Pharm Bioallied Sci. 2018;10(2):90-95. doi:10.4103/JPBS.JPBS_17_18</i>. 1(1).
 ---
-This paper is about the number 1. The number 2 is left for future work.
+This study was carried out to collect and analyze the adverse drug reactions (ADRs) reported with use of anticoagulants, heparin and fondaparinux. These drugs are vital in the treatment of unstable coronary artery diseases and emergencies.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+[Download paper here](http://sahithisharma27.github.io/files/Adverse_DrugReaction.pdf)
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+Recommended citation: Sharma S, Swamy S, Bhambhani A, Nadig P. Adverse Drug Reactions Attributed to Fondaparinux and Unfractionated Heparin in Cardiovascular Care Unit: An Observational Prospective Pilot Study in a Tertiary Care Hospital." <i>J Pharm Bioallied Sci. 2018;10(2):90-95. doi:10.4103/JPBS.JPBS_17_18</i>. 1(1).
