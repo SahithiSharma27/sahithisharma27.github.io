@@ -1,7 +1,7 @@
 ---
 title: "Adverse Drug Reactions Attributed to Fondaparinux and Unfractionated Heparin in Cardiovascular Care Unit: An Observational Prospective Pilot Study in a Tertiary Care Hospital"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: /publication/2018-Adverse Drug Reaction
 excerpt: 'This study was carried out to collect and analyze the adverse drug reactions (ADRs) reported with use of anticoagulants, heparin and fondaparinux. These drugs are vital in the treatment of unstable coronary artery diseases and emergencies.'
 date: 2018-04-01
 venue: 'Journal of Pharmacy & Bioallied Sciences'
