@@ -8,7 +8,18 @@ redirect_from:
   - /about.html
 ---
 I am a Clinical Research Trainee at Mayo Clinic, Phoenix, Arizona, working under [Dr. Hari P. Chaliki](https://www.mayo.edu/research/faculty/chaliki-hari-p-m-d/bio-00078261). Graduated from Vydehi Institute of Medical Sciences and Research Center with a degree in Bachelor of Medicine and Bachelor of Surgery, Medicine (MBBS).
+
+
 ---
+## Licenses and Certifications
+
+* ECFMG certified physician
+* Registered Medical Practitioner
+* Adcanced Cardiovascular Life Support Experienced Provider (ACLS) (Expires July 2025)
+* Basic Life Support (BLS) (Expires July 2023)
+
+---
+
 ## Research Interests
 
 * Add interests here
@@ -27,6 +38,7 @@ I am a Clinical Research Trainee at Mayo Clinic, Phoenix, Arizona, working under
 
 - **March 2012**: Madhulika Rai Memorial award - An award to student of excellent character, all-round development and environmental consciousness.
 
+- **Nov 2011**: Athletics Individual championship for 3 consecutive years
 <!-- Getting started
 ======
 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
