@@ -9,7 +9,7 @@ redirect_from:
 
 ---
 
-Please find my detailed CV [here](https://sahithisharma27.github.io/files/Sahithi - CV.pdf)
+Please find my detailed CV [here](https://sahithisharma27.github.io/files/Sahithi - CV.pdf).
 
 ## Education
 
