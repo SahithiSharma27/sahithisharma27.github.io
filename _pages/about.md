@@ -14,7 +14,7 @@ I am a Clinical Research Trainee at Mayo Clinic, Phoenix, Arizona, working under
 ## Licenses and Certifications
 
 * ECFMG certified physician
-* Registered Medical Practitioner
+* Registered Medical Practitioner by Karnataka Medical Council
 * Adcanced Cardiovascular Life Support Experienced Provider (ACLS) (Expires July 2025)
 * Basic Life Support (BLS) (Expires July 2023)
 
@@ -35,6 +35,8 @@ I am a Clinical Research Trainee at Mayo Clinic, Phoenix, Arizona, working under
 - Management of hypertension
 
 ### Pharmacovigilance
+- Cardiovascular drugs
+- Casuality assessment
 
 ### Preventive Medicine
 - Breast Cancer
