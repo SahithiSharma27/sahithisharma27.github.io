@@ -20,7 +20,7 @@ MBBS - Bachelor of Medicine and Bacehelor of Surgery, Medicine
 ## Work Experience
 
 ### Clinical Research Associate Trainee
-*Mayo Clinic, May 2021 - Present*
+*Mayo Clinic, Phoenix, May 2021 - Present*
 
 
 ---
