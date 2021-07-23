@@ -8,9 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-Biography
+I am a Clinical Research Trainee at Mayo Clinic, Phoenix, Arizona, working under [Dr. Hari P. Chaliki] (https://www.mayo.edu/research/faculty/chaliki-hari-p-m-d/bio-00078261).
 ======
-
 
 <!-- Getting started
 ======
