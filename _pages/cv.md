@@ -61,29 +61,57 @@ telemetry floors
 ### Clinical Extern
 *Rheumatology Care Center, Houston, May 2021*
 
-- Hands-on experience in outpatient setting
+*Preceptor: Dr Wajeeha Yousaf, M.D., Rheumatologist, RCC, Houston*
+
+- Assisted physician with history taking, performing physical exam, documenting SOAP notes
+and counseling patients
 - Assisted physician with history taking, performing physical exam, documenting SOAP notes and counselling patients
 - Actively participated in case discussion, management and follow-up
 - Observed procedures including USG guided intra-articular injections; Participated in and documented Teleconsultations
+- Completed HIPAA compliance course.
 
 ---
 
 ### Medical Officer
 *Chinmaya Mission Hospital, Bengaluru, Feb 2021 - May 2021*
 
-- Management of inpatients across all departments including super specialities and ICUs
-- Care for patients in COVID wards and ICU; operate fever clinic for suspected cases of COVID-19
+- Worked as a medical officer in a 260-bedded multi-specialty hospital during the COVID
+pandemic in Bangalore
+- Care for patients in COVID wards and ICU; operated fever clinic for suspected cases of COVID-19
 - Organisation of COVID-19 immunisation program
+- Co-ordinated public immunization drive and help set up vaccine booths
+- Managed inpatients admitted to non-COVID floors across all departments including superspecialities
 
 ---
 
 ### Research Intern
 *HealSeq Precision Medicine and Health Systems, Bengaluru, Dec 2020 - Feb 2021*
 
+- Worked as a research intern in a Precision Medicine start-up under the guidance of Dr
+Nagasuma Chandra, Professor of Biochemistry, Indian Institute of Science (IISc), Bangalore
+- Carried out detailed review of literature on the association between swallowing and
+respiratory illnesses
+- Mapped the molecular pathway for swallowing, generated Boolean equations to convert the
+physiological process of swallowing into a computer network
+- Docked existing drugs against new target receptors implicated in disease pathogenesis to
+assess their effect on implicated proteins and receptors
+- Set up new tools and wrote tutorials for their use in related research
+
+
 ---
 
 ### Clinical Extern
 *URSC Medical Center, Bengaluru, Nov 2020 - Dec 2021*
+
+*Preceptor: Dr Shivajyoti, PCP for over 4000 employees at URSC Space Centre*
+
+- Worked in outpatient and urgent care setting; Directly involved in patient care including
+history taking, physical exam, workup and medicine review; Educated diabetic patients on
+important practices related to diet, exercise, medications, foot care, eye screening, routine
+testing and follow up
+- Initial management of emergencies including severe dehydration, exacerbation of
+asthma/COPD/heart failure, accelerated hypertension, stroke/TIA, DKA/HHS, wound care,
+dog bite
 
 ---
 
