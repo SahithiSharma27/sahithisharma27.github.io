@@ -5,55 +5,67 @@ permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
+
+
 ---
 
-{% include base_path %}
+## Education
 
-Education
-======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+MBBS - Bachelor of Medicine and Bacehelor of Surgery, Medicine
 
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+*Vydehi Institute of Medical Sciences and Research Center (2014 - 2020)*
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+---
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+## Work Experience
+
+### Clinical Research Associate Trainee
+*Mayo Clinic, May 2021 - Present*
+
+
+---
+
+### Clinical Extern
+*Rheumatology Care Center, Houston, May 2021*
+
+- Hands-on experience in outpatient setting
+- Assisted physician with history taking, performing physical exam, documenting SOAP notes and counselling patients
+- Actively participated in case discussion, management and follow-up
+- Observed procedures including USG guided intra-articular injections; Participated in and documented Teleconsultations
+
+---
+
+### Medical Officer
+*Chinmaya Mission Hospital, Bengaluru, Feb 2021 - May 2021*
+
+- Management of inpatients across all departments including super specialities and ICUs
+- Care for patients in COVID wards and ICU; operate fever clinic for suspected cases of COVID-19
+- Organisation of COVID-19 immunisation program
+
+---
+
+### Research Intern
+*HealSeq Precision Medicine and Health Systems, Bengaluru, Dec 2020 - Feb 2021*
+
+---
+
+### Clinical Extern
+*URSC Medical Center, Bengaluru, Nov 2020 - Dec 2021*
+
+---
+
+### Intern Medical Officer
+*Vydehi Institute of Medical Sciences and Research Center, Bengaluru, Feb 2019 - Feb 2020*
+
+- Rotations in major clinical departments along with short postings in super speciality departments
+- Worked together with medical team to procure detailed history, perform thorough examination and arrive at differential diagnosis
+- Built rapport with patients and gained their confidence
+- Assisted attendings on daily rounds, minor and major procedures
+- Performed minor diagnostic and therapeutic procedures independently
+- Participated in case discussion including test results, inference, diagnosis, care plan and expected outcomes
+
+---
+
+
+---
+
