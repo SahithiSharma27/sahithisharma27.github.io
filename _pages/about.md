@@ -7,8 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a Clinical Research Trainee at Mayo Clinic, Phoenix, Arizona, working under [Dr. Hari P. Chaliki](https://www.mayo.edu/research/faculty/chaliki-hari-p-m-d/bio-00078261).
-
+I am a Clinical Research Trainee at Mayo Clinic, Phoenix, Arizona, working under [Dr. Hari P. Chaliki](https://www.mayo.edu/research/faculty/chaliki-hari-p-m-d/bio-00078261). Graduated from Vydehi Institute of Medical Sciences and Research Center with a degree in Bachelor of Medicine and Bachelor of Surgery, Medicine (MBBS).
 ---
 ## Research Interests
 
