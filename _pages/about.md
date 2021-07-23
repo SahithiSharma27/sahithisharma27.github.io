@@ -39,6 +39,8 @@ I am a Clinical Research Trainee at Mayo Clinic, Phoenix, Arizona, working under
 - **March 2012**: Madhulika Rai Memorial award - An award to student of excellent character, all-round development and environmental consciousness.
 
 - **Nov 2011**: Athletics Individual championship for 3 consecutive years
+
+
 <!-- Getting started
 ======
 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
