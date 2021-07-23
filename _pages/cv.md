@@ -24,6 +24,37 @@ MBBS - Bachelor of Medicine and Bacehelor of Surgery, Medicine
 ### Clinical Research Associate Trainee
 *Mayo Clinic, Phoenix, May 2021 - Present*
 
+- Working under the guidance of Dr Hari P Chaliki, Associate Professor, Department of
+Cardiovascular Diseases; Dr Clinton Jokerst, Associate Professor, Department of Radiology,
+Mayo Clinic, Scottsdale
+- Writing up unique Cardiology cases for poster presentation/publication
+- Projects:
+  -  Utility of multi-dimension CT in the calculation of SV and AVA in severe AS
+  -  Natural history of idiopathic tricuspid regurgitation
+  -  Progression of aortic stenosis in ESRD
+  -  CT vs Echocardiography RV strain in PE diagnosis
+- Tools:
+  -  Mayo Data Explorer, I2B2, Tomtec strain analysis, Blue Sky and JMP statistics, EndNote,
+     advanced Excel functions
+- Completed Fundamentals of Clinical & Translational Sciences (FunCaTS) course
+- Attend weekly Cardiology and Internal Medicine grand rounds, symposiums
+
+
+
+---
+
+### Clinical Observer
+*Abrazo Health Network, Phoenix, June 2021 - July 2021*
+
+*Preceptor: Hemang Gandhi M.D., Hospitalist and Vice Chair of Medicine, Abrazo Health Network*
+
+- Reviewed medical records, discussed assessment/plan of patients on daily rounds in
+telemetry floors
+- Participated in multidisciplinary rounds in Neuro-ICU
+- Conferred with specialists regarding care plan in collaborative management
+- Attended calls from ER for admission and primary evaluation/treatment of patients
+- Assisted with discharge records and instructions
+
 
 ---
 
