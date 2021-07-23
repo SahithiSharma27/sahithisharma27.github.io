@@ -15,7 +15,7 @@ I am a Clinical Research Trainee at Mayo Clinic, Phoenix, Arizona, working under
 
 * ECFMG certified physician
 * Registered Medical Practitioner by Karnataka Medical Council
-* Adcanced Cardiovascular Life Support Experienced Provider (ACLS) (Expires July 2025)
+* Advanced Cardiovascular Life Support Experienced Provider (ACLS) (Expires July 2025)
 * Basic Life Support (BLS) (Expires July 2023)
 
 ---
