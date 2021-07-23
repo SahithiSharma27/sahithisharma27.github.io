@@ -23,7 +23,7 @@ I am a Clinical Research Trainee at Mayo Clinic, Phoenix, Arizona, working under
 ## Research Interests
 
 ### Cardiology
-- Severe aortic stenosis
+- Severe Aortic Stenosis
 - Effect of end stage renal disease and dialysis on aortic stenosis progression
 - Multimodality Valvular Imaging
 - Idiopathic Tricuspid Regurgitation
