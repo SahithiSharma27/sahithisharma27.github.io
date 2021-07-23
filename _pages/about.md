@@ -10,6 +10,23 @@ redirect_from:
 I am a Clinical Research Trainee at Mayo Clinic, Phoenix, Arizona, working under [Dr. Hari P. Chaliki](https://www.mayo.edu/research/faculty/chaliki-hari-p-m-d/bio-00078261).
 
 ---
+## Research Interests
+
+* Add interests here
+
+---
+
+## Awards
+
+- **Feb 2020**: Academic Proficiency Award by Vydehi Institute of Medical Sciences and Research Centre for **Academic Excellence and being the subject topper in Paediatrics**.
+
+- **July 2019**: Best poster presentation of a case report at "Pharmacovigilance: clinical implications" CME for poster titled, "A rare case of Dabigatran induced    hemopericardium with cardiac tamponade".
+
+- **March 2018**: Best short film, "Be A TrailBlazer, END TB" about leaders in all fields and walks of life fighting to eliminate Tuberculosis.
+
+- **June 2014**: Best outgoing student, batch of 2014 at Deeksha Integrated College, Bengaluru.
+
+- **March 2012**: Madhulika Rai Memorial award - An award to student of excellent character, all-round development and environmental consciousness.
 
 <!-- Getting started
 ======
