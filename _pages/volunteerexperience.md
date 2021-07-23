@@ -21,14 +21,14 @@ Organized and participated in numerous activities to promote civic awareness amo
 ---
 
 ### Student Volunteer
-*Pulse Polio immunization program (March 2018)*
+*Pulse Polio Immunization Program (March 2018)*
 
 Door to door campaign to improve vaccine awareness and vaccination of children between 0-5 yrs who missed vaccine on Pulse Polio days
 
 ---
 
 ### Volunteer
-*INSPIRE science and technology camp (Oct 2017)*
+*INSPIRE Science and Technology Camp (Oct 2017)*
 
 Participated in camp conducted by Department of Science & Technology, India for children of Leh, Kashmir to inculcate an interest in STEM subjects amongst class 10-12 students from govt schools
 
