@@ -48,14 +48,18 @@ I am a Clinical Research Trainee at Mayo Clinic, Phoenix, Arizona, working under
 
 ## Awards
 
-- **Feb 2020**: Academic Proficiency Award by Vydehi Institute of Medical Sciences and Research Centre for **Academic Excellence and being the subject topper in Paediatrics**.
+- **2014 - 2020**:  “Distinction” in Anatomy, Physiology, Biochemistry, Ophthalmology, Otorhinolaryngology and Pediatrics
 
-- **July 2019**: Best poster presentation of a case report at "Pharmacovigilance: clinical implications" CME for poster titled, "A rare case of Dabigatran induced    hemopericardium with cardiac tamponade".
+- **Feb 2020**: Academic Proficiency Award by Vydehi Institute of Medical Sciences and Research Centre for **Academic Excellence and being the subject topper in Paediatrics**
 
-- **March 2018**: Best short film, "Be A TrailBlazer, END TB" about leaders in all fields and walks of life fighting to eliminate Tuberculosis.
+- **July 2019**: Best poster presentation of a case report at "Pharmacovigilance: clinical implications" CME for poster titled, "A rare case of Dabigatran induced    hemopericardium with cardiac tamponade"
 
-- **June 2014**: Best outgoing student, batch of 2014 at Deeksha Integrated College, Bengaluru.
+- **April 2018**: Best short film, "Be A TrailBlazer, END TB" about leaders in all fields and walks of life fighting to eliminate Tuberculosis
 
-- **March 2012**: Madhulika Rai Memorial award - An award to student of excellent character, all-round development and environmental consciousness.
+- **September 2015**: Second place, Debate competition, Prometheus cultural fest, MS Ramaiah Medical College, Bangalore
+
+- **June 2014**: Best outgoing student, batch of 2014 at Deeksha Integrated College, Bengaluru
+
+- **March 2012**: Madhulika Rai Memorial award - An award to student of excellent character, all-round development and environmental consciousness
 
 - **Nov 2011**: Athletics Individual championship for 3 consecutive years
