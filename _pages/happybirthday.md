@@ -10,6 +10,6 @@ redirect_from:
 ---
 
 ### Let's go on a journey xD
-![Sahithi](https://sahithisharma27.github.com/images/school.png)
+![Sahithi](https://sahithisharma27.github.com/images/School.png)
 
 ---
