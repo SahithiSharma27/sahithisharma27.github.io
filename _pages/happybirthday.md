@@ -10,6 +10,8 @@ redirect_from:
 ---
 
 ### Let's go on a journey xD
-![Sahithi](https://sahithisharma27.github.com/images/School.png)
+
+There was a tiny little baby who was fond of pictures for the school.
+![Sahithi](https://sahithisharma27.github.com/images/School.jpeg)
 
 ---
