@@ -1,5 +1,9 @@
 # main links links
 main:
+
+  - title: "Happy Birthday!"
+    url: /happybirthday/
+    
   - title: "Research"
     url: /research/
     
@@ -15,5 +19,4 @@ main:
   - title: "Volunteer Experience"
     url: /volunteerexperience/
  
-  - title: "Happy Birthday!"
-    url: /happybirthday/
+
