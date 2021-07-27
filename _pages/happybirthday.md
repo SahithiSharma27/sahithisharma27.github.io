@@ -25,8 +25,8 @@ redirect_from:
 
 ![Nischal](/images/Nischal.jpeg) ![Aanya](/images/Aanya.jpeg) ![Shanku](/images/Shanku.jpeg)
 
-## Oh boy where do I begin about what a cheerful, funny, empathetic, caring (inserts all adjectives to describe "amazing" ) friend 
+<!-- ## Oh boy where do I begin about what a cheerful, funny, empathetic, caring (inserts all adjectives to describe "amazing" ) friend 
 
-![Trio](/images/Nischal.jpeg) ![Aanya](/images/Aanya.jpeg) ![Shanku](/images/Shanku.jpeg)
+![Trio](/images/Nischal.jpeg) ![Aanya](/images/Aanya.jpeg) ![Shanku](/images/Shanku.jpeg) -->
 
 ---
