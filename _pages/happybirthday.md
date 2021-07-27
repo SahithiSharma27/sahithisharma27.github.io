@@ -9,14 +9,11 @@ redirect_from:
 
 ---
 
-### Let's go on a journey xD
+## Let's go on a journey xD
 
-There was a tiny little baby who was fond of pictures for the school.
+### Poser
 
-![School](/images/School.jpeg)
+![School](/images/School.jpeg) ![Actress](/images/NischalsUSDeparture.jpeg)
 
-Not only did she pose for pictures for her school but at home too.
-
-![Actress](/images/NischalsUSDeparture.jpeg)
 
 ---
