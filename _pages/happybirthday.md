@@ -17,9 +17,16 @@ redirect_from:
 
 ## An amazing daughter and sister (sister part is debatable, Jk! :D) 
 
-![Dad](/images/Dad.jpeg) ![Mom](/images/Mom.jpeg) ![Mahi](/images/Mahi.jpeg)
+![Familia](/images/Familia.jpeg) ![Dad](/images/Dad.jpeg) ![Mom](/images/Mom.jpeg) ![Mahi](/images/Mahi.jpeg) ![Mahi2](/images/Mahi.jpeg)
+![CutePicture](/images/CutePicture.jpeg) 
+
 
 ## Loveable neice and a fun loving cousin
 
-![Nischal](/images/Nischal.jpeg) ![Aanya](/images/Aanya.jpeg)
+![Nischal](/images/Nischal.jpeg) ![Aanya](/images/Aanya.jpeg) ![Shanku](/images/Shanku.jpeg)
+
+## Oh boy where do I begin about what a cheerful, funny, empathetic, caring (inserts all adjectives to describe "amazing" ) friend 
+
+![Trio](/images/Nischal.jpeg) ![Aanya](/images/Aanya.jpeg) ![Shanku](/images/Shanku.jpeg)
+
 ---
