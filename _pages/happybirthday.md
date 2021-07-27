@@ -15,7 +15,7 @@ redirect_from:
 
 ![School](/images/School.jpeg) ![Actress](/images/NischalsUSDeparture.jpeg)
 
-## An amazing daughter and sister (sister part is debatable, Jk! :D) 
+## An amazing daughter, grand daughter and sister (sister part is debatable, Jk! :D) 
 
 ![Familia](/images/Familia.jpeg) ![AjjiThatha](/images/AjjiThatha.jpeg) ![Dad](/images/Appa.jpeg) ![Mom](/images/Mom.jpeg) ![Mahi](/images/Mahi.jpeg) ![Mahi2](/images/Mahi2.jpeg)
 ![CutePicture](/images/CutePicture.jpeg) 
