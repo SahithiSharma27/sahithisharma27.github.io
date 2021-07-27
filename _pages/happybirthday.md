@@ -17,7 +17,7 @@ redirect_from:
 
 ## An amazing daughter and sister (sister part is debatable, Jk! :D) 
 
-![Familia](/images/Familia.jpeg) ![Dad](/images/Appa.jpeg) ![Mom](/images/Mom.jpeg) ![Mahi](/images/Mahi.jpeg) ![Mahi2](/images/Mahi.jpeg)
+![Familia](/images/Familia.jpeg) ![Dad](/images/Appa.jpeg) ![Mom](/images/Mom.jpeg) ![Mahi](/images/Mahi.jpeg) ![Mahi2](/images/Mahi2.jpeg)
 ![CutePicture](/images/CutePicture.jpeg) 
 
 
