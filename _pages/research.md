@@ -12,7 +12,9 @@ redirect_from:
 ### Implementation of a standardized neonatal cardiac surgery protocol improves postoperative outcomes
 *Guide- Dr Nischal K Gautam, Associate Professor, Department of Pediatric Anesthesiology, McGovern Medical School, University of Texas, Houston, Nov 2020 - Dec 2020*
 
-- Collected and organized data in Excel table; Assisted in statistical analysis; Formatted poster
+- Assisted in statistical analysis
+- Collected and organized data in Excel table
+-  Formatted poster
 according to guidelines
 
 ---
@@ -37,8 +39,9 @@ UMACR (Urine MicroAlbumin Creatinine Ratio) and eGFR (estimated Glomerular Filtr
 ### Effect of metformin on fibrinolysis in type 2 diabetes mellitus: an explorative study
 *Guide- Dr Pratibha Nadig, Professor, Department of Pharmacology, Dr Vijay Sarathi, Associate Professor, Department of Endocrinology, VIMS&RC, Bangalore, Feb 2016 - Jun 2016*
 
-- Collected and tabulated data for the project; Followed up on patients to monitor compliance, response and adverse effects; Assisted in statistical analysis and provided inputs for paper
-writing
+- Collected and tabulated data for the project
+-  Followed up on patients to monitor compliance, response and adverse effects
+-   Assisted in statistical analysis and provided inputs for paper
 
 ---
 
