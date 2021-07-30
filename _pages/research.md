@@ -12,18 +12,16 @@ redirect_from:
 ### Implementation of a standardized neonatal cardiac surgery protocol improves postoperative outcomes
 *Guide- Dr Nischal K Gautam, Associate Professor, Department of Pediatric Anesthesiology, McGovern Medical School, University of Texas, Houston, Nov 2020 - Dec 2020*
 
-- Assisted in statistical analysis
-- Collected and organized data in Excel table
--  Formatted poster
-according to guidelines
+- Assisted in statistical analysis and formatting of poster according to submission guidelines
+- Collected and organized data including methods of surgical triaging, vascular access, haemostasis, antifibrinolytics and anaesthetics used, and cardiopulmonary bypass protocols
+- Attended and participated in journal clubs of the division
 
 ---
 
 ### Neutrophil Lymphocyte Ratio (NLR) as a surrogate marker of Diabetic nephropathy
 *Guide- Dr Anand L Betdur, Professor, Department of Internal Medicine, VIMS&RC, Bangalore, Apr 2019 - Jun 2019*
 
-- Collected, tabulated and organized data-detailed history, NLR (Neutrophil Lymphocyte Ratio),
-UMACR (Urine MicroAlbumin Creatinine Ratio) and eGFR (estimated Glomerular Filtration Rate) for the project
+- Collected, tabulated and organized data-detailed history, NLR (Neutrophil Lymphocyte Ratio), UMACR (Urine MicroAlbumin Creatinine Ratio) and eGFR (estimated Glomerular Filtration Rate) for the project
 - Established a correlation between NLR and UMACR in patients with Diabetes mellitus
 
 ---
