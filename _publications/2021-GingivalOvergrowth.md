@@ -5,9 +5,9 @@ permalink: /publication/2021-GingivalOvergrowth
 excerpt: 'Add details here'
 date: 2021-03-01
 venue: 'Journal of Pharmacovigilance and Drug Research'
-paperurl: 'paper URL'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+paperurl: 'https://jpadr.com/index.php/jpadr/article/view/20'
+citation: 'Rakesh B M, Sahithi Sharma, and Chandana K H, “A rare case of accelerated gingival overgrowth with high dose amlodipine therapy”, jpadr, vol. 2, no. 1, pp. 15-17, Mar. 2021'
 ---
-Add details here
+Gingival overgrowth represents an over-exuberant response to a variety of local and systemic conditions. Certain anticonvulsants, immunosuppressive drugs, and a number of calcium channel blockers have been shown to produce similar gingival overgrowth in susceptible patients. Among the calcium channel blockers, nifedipine is most frequently associated with gingival overgrowth.  Whereas, there is limited evidence of amlodipine-induced gingival hyperplasia. We report a case of accelerated drug-induced gingival overgrowth in a 60-year-old hypertensive patient taking amlodipine at a dose of 10 mg.
 
-Recommended citation: Your Name, You. (2015). "Paper Title Number 3." <i>Journal 1</i>. 1(3).
+Recommended citation: Rakesh B M, Sahithi Sharma, and Chandana K H, “A rare case of accelerated gingival overgrowth with high dose amlodipine therapy”, jpadr, vol. 2, no. 1, pp. 15-17, Mar. 2021
