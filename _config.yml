@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Srinidhi Bharadwaj"
 title_separator          : "-"
 name                     : &name "Srinidhi Bharadwaj"
-description              : &description "MS Student at UCSD, ECE Department"
+description              : &description "MS, Intelligent Systems, Robotics and Control, ECE Department, UC San Diego"
 url                      : https://srinidhibharadwaj.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "srinidhibharadwaj.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Srinidhi Bharadwaj"
   avatar           : "Github.jpeg"
-  bio              : "Masters Student, Star Gazer, Car Enthusiast"
+  bio              : "Graduate Student at UC San Diego"
   location         : "San Diego, California"
   employer         :
   pubmed           : 
   googlescholar    : 
-  email            : "srinidhibharadwaj621 [at] gmail [dot] com"
+  email            : "srinidhibharadwaj123 [at] gmail [dot] com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
